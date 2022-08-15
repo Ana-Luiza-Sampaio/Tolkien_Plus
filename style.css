@@ -141,4 +141,20 @@ body {
 		width: 100%;
 		display: block;
 	}
+	.secundario{
+		height: 622px;
+		align-items: center;
+		margin: 0 10em;
+	}
+	.descricao__titulo {
+		font-weight: 700;
+		font-size: 47px;
+		margin-bottom: 0.3em;
+		text-align: center;
+	}
+	.descricao__texto{
+		font-size: 20px;
+		text-align: justify;
+		color: var(--cinza-secundario);
+	}
 }
